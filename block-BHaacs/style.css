@@ -514,7 +514,7 @@ small::after {
         padding: 0;
         font-weight: 900;
     }
-}
+};
 
 
 @media screen and (max-width: 576px) {
@@ -562,4 +562,4 @@ small::after {
         width: 100%;
     }
 
-};
+}
